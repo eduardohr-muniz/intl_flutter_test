@@ -1,0 +1,5 @@
+{
+  "helloWord": "Hello Word!",
+  "wellcome": "Hello {name}",
+  "buttonShowCalendar": "Show calendar"
+}
